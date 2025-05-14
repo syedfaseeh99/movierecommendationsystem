@@ -1,0 +1,1 @@
+Movie recommender system using AI and Machine learning techniques (content based filtering). Designed using Jupyter Notebooks and PyCharm. Primary language being Python. Streamlit was the Frontend Framework used.
